@@ -1,0 +1,5 @@
+body{background-color: khaki;}
+#pres{display: inline-flex; outline-style: outset; margin: 5px;}
+#work{display: inline-block;}
+#ed1{display: inline-block;}
+#date{text-decoration: underline;}
